@@ -1,7 +1,21 @@
-# Eastern Era trainer +40: grain, troops, prestige and cultivation [v1.0.0]
+# Eastern Era Trainer (+40) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/eastern-era-trainer) · [Скачать RU](https://moggydaytrainer.com/f/eastern-era-trainer) · [Eastern Era hub](https://moggydaytrainer.com/g/eastern-era) · [Eastern Era news](https://moggydaytrainer.com/g/eastern-era/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/eastern-era-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/eastern-era-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/eastern-era-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/eastern-era"><img alt="Game hub" src="https://img.shields.io/badge/Eastern%20Era%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
+
+MoggyDay hosts the official **Eastern Era** trainer for Windows (v1.0.0, **+40** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
+
+## About Eastern Era
+
+Eastern Era is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 3446240).
+
+## About the MoggyDay trainer
 
 MoggyDay keeps one stable URL for Eastern Era: [EN](https://moggydaytrainer.com/en/f/eastern-era-trainer) / [RU](https://moggydaytrainer.com/f/eastern-era-trainer). Build v1.0.0 advertises +40 — Eastern Era trainer +40: grain, troops, prestige and cultivation. Single-player only.. This README is expanded from that listing so `Eastern Era trainer 2026` has a real page with screenshots instead of a one-line stub.
 
@@ -19,87 +33,37 @@ Shots from the live [Eastern Era trainer page](https://moggydaytrainer.com/en/f/
 
 [![Eastern Era options 3](https://moggydaytrainer.com/media/shots/hub-eera/fn-3.png)](https://moggydaytrainer.com/en/f/eastern-era-trainer)
 
-## Who this is for
+## Trainer features (+40)
 
-For Eastern Era on Windows. The trainer is a separate process next to the game, not a Steam workshop mod. Read the option names on the download page before you enable everything at once.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/eastern-era-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | Eastern Era trainer +40: grain | — | — | |
+| 2 | troops | — | — | |
+| 3 | prestige and cultivation. Single-player only. | — | — | |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/eastern-era-trainer](https://moggydaytrainer.com/en/f/eastern-era-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/eastern-era-trainer](https://moggydaytrainer.com/f/eastern-era-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/eastern-era](https://moggydaytrainer.com/g/eastern-era) |
-| Trainers tab | [https://moggydaytrainer.com/g/eastern-era/trainers](https://moggydaytrainer.com/g/eastern-era/trainers) |
-| News | [https://moggydaytrainer.com/g/eastern-era/news](https://moggydaytrainer.com/g/eastern-era/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
-
-## Eastern Era trainer v1.0.0: +40 options
-
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
-
-| # | Option |
-|---|---|
-| 1 | Eastern Era trainer +40: grain |
-| 2 | troops |
-| 3 | prestige and cultivation. Single-player only. |
-
-### What those toggles are for
+### Tips
 
 - **Eastern Era trainer +40: grain** — Usually the first toggle people enable on a Eastern Era trainer.
 - **troops** — Check this after every Eastern Era patch — values often shift.
 - **prestige and cultivation. Single-player only.** — Leave it off if you only want a mild resource boost.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/eastern-era-trainer). GitHub stays a summary.
+## Download
 
-## How to download
+1. Open **[Eastern Era trainer +40: grain, troops, prestige and cultivation [v1.0.0]](https://moggydaytrainer.com/en/f/eastern-era-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/eastern-era-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/eastern-era-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a Eastern Era update, reload the same URL — the slug `/f/eastern-era-trainer` never moves.
 
-1. Open **[Eastern Era trainer +40: grain, troops, prestige and cultivation [v1.0.0]](https://moggydaytrainer.com/en/f/eastern-era-trainer)** or **[Eastern Era «Трейнер +40: зерно, войска, престиж и культивация» [v1.0.0]](https://moggydaytrainer.com/f/eastern-era-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a Eastern Era patch, reload the same URL. We do not publish binaries as GitHub Releases.
+## Install (Windows)
 
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `eastern-era-trainer.exe`.
+1. Close Eastern Era before trying a new build.
+2. Run only files from MoggyDay for `eastern-era-trainer`.
+3. Enable a few toggles first, not the entire +40 list.
+4. Keep a backup save before resource or progression edits.
 
-## What the screenshots show
-
-The first image is the Eastern Era cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/eastern-era-trainer](https://moggydaytrainer.com/en/f/eastern-era-trainer).
-
-## Install notes (Windows)
-
-1. Close Eastern Era before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `eastern-era-trainer`.
-3. Start the trainer, then start Eastern Era (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +40 list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the v1.0.0 heading is older than the Eastern Era build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/eastern-era-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a Eastern Era update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**Eastern Era «Трейнер +40: зерно, войска, престиж и культивация» [v1.0.0]**
-
-Трейнер Eastern Era +40: зерно, войска, престиж и культивация. Только одиночная игра.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/eastern-era-trainer
-- Хаб Eastern Era: https://moggydaytrainer.com/g/eastern-era
-- Новости: https://moggydaytrainer.com/g/eastern-era/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -118,19 +82,23 @@ Yes — [Eastern Era «Трейнер +40: зерно, войска, прест�
 **Why GitHub at all?**
 So `Eastern Era trainer` search has a documented page with screenshots that points at the real download, instead of a dead file host.
 
-## Search notes
+
+## Search terms (English)
 
 `Eastern Era trainer`, `Eastern Era trainer download`, `Eastern Era cheats`, `Eastern Era hack`, `Eastern Era god mode`, `free Eastern Era trainer`, `Eastern Era trainer 2026`, `скачать трейнер Eastern Era`
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/eastern-era-trainer](https://moggydaytrainer.com/f/eastern-era-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/eastern-era-trainer](https://moggydaytrainer.com/zh/f/eastern-era-trainer)
 
 ## Other MoggyDay trainers
 
-- ![DOOM: The Dark Ages cover](https://moggydaytrainer.com/media/covers/doom-the-dark-ages-1bbcc6ff7b.jpg) [DOOM: The Dark Ages "Trainer +22: God Mode, Ammo, One Hit, Shield" [v2.1.0]](https://moggydaytrainer.com/en/f/doom-dark-ages-trainer) · [RU](https://moggydaytrainer.com/f/doom-dark-ages-trainer)
-- ![CONTROL Resonant cover](https://moggydaytrainer.com/media/covers/control-resonant-e94806b1a9.jpg) [CONTROL Resonant "Trainer +27: Health, Power, Source, Fly, Teleport" [v1.1.0]](https://moggydaytrainer.com/en/f/control-resonant-trainer) · [RU](https://moggydaytrainer.com/f/control-resonant-trainer)
-- ![SILENT HILL: Townfall cover](https://moggydaytrainer.com/media/covers/silent-hill-townfall-8f4b4ab3b6.jpg) [SILENT HILL: Townfall trainer +42: immortal, items, enemies, time [v1.0.0]](https://moggydaytrainer.com/en/f/silent-hill-townfall-trainer) · [RU](https://moggydaytrainer.com/f/silent-hill-townfall-trainer)
-- ![Broken Arrow cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604270/6b662a8d43880116f843ff401cf052b5bc2c0973/library_capsule_2x.jpg) [Broken Arrow trainer +40: command points, units, recon and ammo [v1.0.0]](https://moggydaytrainer.com/en/f/broken-arrow-trainer) · [RU](https://moggydaytrainer.com/f/broken-arrow-trainer)
+- [Esports Manager 2026 trainer +54: fan happiness, player form, morale, money, prestige [v1.0.0]](https://moggydaytrainer.com/en/f/esports-manager-2026-trainer) · [RU](https://moggydaytrainer.com/f/esports-manager-2026-trainer)
+- [Heroes of Might and Magic: Olden Era trainer +63: hero movement, mana, army morale, gold, wood, ore [v1.0.0]](https://moggydaytrainer.com/en/f/homm-olden-era-trainer) · [RU](https://moggydaytrainer.com/f/homm-olden-era-trainer)
+- [Timberborn trainer +55: beaver well-being, hunger, thirst, sleep, logs, food [v1.0.0]](https://moggydaytrainer.com/en/f/timberborn-trainer) · [RU](https://moggydaytrainer.com/f/timberborn-trainer)
+- [VEIN trainer +54: health, hunger, thirst, stamina, scrap, medical [v1.0.0]](https://moggydaytrainer.com/en/f/vein-trainer) · [RU](https://moggydaytrainer.com/f/vein-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `Eastern Era trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/eastern-era-trainer](https://moggydaytrainer.com/en/f/eastern-era-trainer). Screenshots hotlink MoggyDay `/media/` assets.
